@@ -1,6 +1,6 @@
 # nachfolge.live
 
-**Webseite:** https://nachfolge.live
+**Webseite (MVP):** https://nachfolge.live
 
 ## Dokumente
 
